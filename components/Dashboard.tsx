@@ -1,9 +1,9 @@
 
 import React from 'react';
-import ReportWidget from './ReportWidget';
-import NewsWidget from './NewsWidget';
-import TradingChartWidget from './TradingChartWidget';
-import MentorWidget from './MentorWidget';
+import ReportWidget from './ReportWidget.tsx';
+import NewsWidget from './NewsWidget.tsx';
+import TradingChartWidget from './TradingChartWidget.tsx';
+import MentorWidget from './MentorWidget.tsx';
 
 // The Dashboard component is the main container for all agent UI modules.
 // Educational note: A dashboard interface is common in complex applications

@@ -1,6 +1,6 @@
 
 import { GoogleGenAI, Type } from "@google/genai";
-import type { NewsItem } from '../types';
+import type { NewsItem } from '../types.ts';
 
 // This service encapsulates all interactions with the Google Gemini API.
 // Educational note: A dedicated service layer for external APIs is a key principle

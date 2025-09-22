@@ -1,4 +1,5 @@
-import Dashboard from './components/Dashboard';
+
+import Dashboard from './components/Dashboard.tsx';
 
 // Main App component serves as the root of the application's UI.
 function App() {
